@@ -75,6 +75,16 @@ https://arduino.esp8266.com/stable/package_esp8266com_index.json
 
 <img alt="img" src="assets/7.png">
 
+## ⬇️ 下载仓库
+
+```bash
+git clone https://github.com/NeetheCheeBao/WU-Blocker.git
+```
+
+```bash
+gh repo clone NeetheCheeBao/ESP8266-PC_PowerSwitch
+```
+
 ## ⚙️ 配置说明
 
 打开项目：
