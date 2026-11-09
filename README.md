@@ -7,9 +7,11 @@
   <img alt="HTML5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
   <img alt="License MIT" src="https://img.shields.io/badge/License-MIT-green?style=for-the-badge">
   <h3>基于 ESP8266 的简单电脑电源远程控制项目</h3>
-  <img alt="img" src="assets/0.png" width="300">
-  <img alt="img" src="assets/1.jpg" width="500">
 </div>
+
+| 网页操作界面 | 实物示例 |
+| :---: | :---: |
+| <img alt="img" src="assets/0.png" width="300"> | <img alt="img" src="assets/1.jpg" width="500"> |
 
 ## 💡 功能特点
 - 远程开机：通过网页按钮远程开机
