@@ -5,7 +5,7 @@
   <img alt="Relay" src="https://img.shields.io/badge/Relay-FF6F00?style=for-the-badge&logo=circuitverse&logoColor=white">
   <img alt="C++" src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white">
   <img alt="HTML5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
-  <img alt="License MIT" src="https://img.shields.io/badge/License-MIT-green?style=for-the-badge">
+  <img alt="License GPL v3.0" src="https://img.shields.io/badge/License-GPL%20v3.0-green?style=for-the-badge">
   <h3>基于 ESP8266 的简单电脑电源远程控制项目</h3>
 </div>
 
@@ -130,4 +130,4 @@ IPAddress primaryDNS(192, 168, 1, 1);  // 设定首选DNS服务器
 
 ## ⚖️ 许可证
 
-本项目采用 MIT 许可证 - 详情请参阅 [LICENSE](LICENSE) 文件
+本项目采用 GNU General Public License v3.0 许可证 - 详情请参阅 [LICENSE](LICENSE) 文件
